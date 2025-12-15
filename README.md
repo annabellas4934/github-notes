@@ -1,6 +1,6 @@
 # github-notes
 
-git = version control sofeware 
+git = version control sofeware  
 Github = a site you can use Git on
 repository 
 * You can add files to it
